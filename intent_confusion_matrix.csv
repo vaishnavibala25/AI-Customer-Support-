@@ -1,0 +1,15 @@
+,account_login,cancellation,delivery_issue,delivery_misdelivery,general_amazon_query,general_unclear,order_tracking_status,payment_billing,prime,product_device_issue,promotion_discount,refund_issue,return_issue,security_fraud
+account_login,7,0,0,0,0,1,0,0,0,0,0,0,0,0
+cancellation,0,11,0,0,0,0,0,0,0,0,0,0,0,0
+delivery_issue,1,0,12,1,2,2,5,2,2,0,0,0,2,1
+delivery_misdelivery,0,0,1,8,0,0,3,1,0,0,1,0,0,1
+general_amazon_query,1,0,0,4,5,1,0,0,0,2,2,0,0,1
+general_unclear,2,3,1,1,5,9,3,0,1,1,1,2,3,6
+order_tracking_status,0,0,1,0,1,0,2,0,0,0,0,0,0,0
+payment_billing,1,0,0,0,2,1,0,9,0,1,1,1,0,0
+prime,0,1,0,0,0,0,0,1,12,0,0,0,0,0
+product_device_issue,0,0,0,1,0,1,0,0,0,11,0,2,0,0
+promotion_discount,0,0,0,0,0,0,1,0,0,0,10,0,0,0
+refund_issue,0,0,0,0,0,0,1,1,0,0,0,10,1,0
+return_issue,0,0,0,0,0,0,0,1,0,0,0,0,9,0
+security_fraud,3,0,0,0,0,0,0,0,0,0,0,0,0,6

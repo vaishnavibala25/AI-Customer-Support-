@@ -1,0 +1,211 @@
+customer_message,suggested_intent,similarity,true_intent,predicted_intent,confidence
+I want to return my order but no one has came to pickup my order,return_issue,0.8296537399291992,return_issue,return_issue,0.8296537399291992
+I have still not received my courier!,return_issue,0.7813175320625305,delivery_issue,return_issue,0.7813175320625305
+facing issue with an order return.. Pls help! Ur cust care rep is nt helpful either. Not expected this frm u guys,return_issue,0.711774468421936,return_issue,return_issue,0.711774468421936
+"I HV ordred a prodct, waitin fo return pickup sinc last 9-10 dez & not refunding coz de r unable to pickup on the scheduled time.",return_issue,0.71082603931427,return_issue,return_issue,0.71082603931427
+do ur courier partner had not been contacted me or nor try to deliver it me. Tracking id 69987177035,return_issue,0.6811171770095825,delivery_issue,return_issue,0.6811171770095825
+ORDER # 405-2461791-7785107 ORDER # 404-5845458-6107505 The return is still not placed and pending from last 15 days.,return_issue,0.6783027648925781,return_issue,return_issue,0.6783027648925781
+I had filed return on 6th but yet no one had came to pickup. I had complained three times to ur customer service but now they blocked my no.,return_issue,0.6727558374404907,return_issue,return_issue,0.6727558374404907
+"For the Order#171-5545073-8545123 , i have asked for the Return but your agent is not reached yet",return_issue,0.6616843938827515,return_issue,return_issue,0.6616843938827515
+0128722014 0128720804 These are my complaint numbers when the heck my problem will be resolved. Y it is taking too long. It has been more than 10 days since I made the first complaint.,return_issue,0.3234293460845947,general_unclear,return_issue,0.3234293460845947
+I've contacted you 32 times already ! Just refund me my money and give me the Hard copies of the content wiped out.,return_issue,0.3968305587768554,refund_issue,return_issue,0.39683055877685547
+Item is eligible for return but customer care is not ready for pickup.,return_issue,0.614905595779419,return_issue,return_issue,0.614905595779419
+tried to add towels to my wedding registry + accidentally ordered them. now being charged a fee to return. can you help?,return_issue,0.4760550260543823,return_issue,return_issue,0.4760550260543823
+This situation is Shared Previously also and by your side not taking any action. Just making fools by saying sorry only....,return_issue,0.2898050248622894,general_unclear,return_issue,0.28980502486228943
+"Eh. I suppose I should. I was kind of waiting to see how it all worked out, for the sake of the humor. :)",return_issue,0.1764094084501266,general_unclear,return_issue,0.17640940845012665
+"I could just go to Tesco and buy it right now and send you yours back and get a refund. I pay for day of release, not afternoon",return_issue,0.4928439855575561,return_issue,return_issue,0.49284398555755615
+"Seriously, HOW CAN I GET MY EMAIL ADDRESS REMOVED FROM AN AMAZON ACCOUNT THAT IS BUYING LOADS OF STUFF, POSSIBLY FRAUDULENTLY?",security_fraud,0.8198270797729492,security_fraud,security_fraud,0.8198270797729492
+"someone has stolen my Amazon account, and changed the email address. How do I recover it?",security_fraud,0.7361552715301514,security_fraud,security_fraud,0.7361552715301514
+I am receiving the same mails... Amazon is not at all cooperating..,security_fraud,0.6935189962387085,general_unclear,security_fraud,0.6935189962387085
+is this email legit?,security_fraud,0.6913416385650635,security_fraud,security_fraud,0.6913416385650635
+here attaching the inbox page of registered email id. plz assist in a proper wat rather than harassing #AmazonIndia,security_fraud,0.6876641511917114,general_unclear,security_fraud,0.6876641511917114
+"Pretending to be amazon. Sending me an invoice for my prime subscription (I don't have prime, have checked my account, definitely don't!)",security_fraud,0.6781498789787292,security_fraud,security_fraud,0.6781498789787292
+Following from last 3 days.. whether amazon doing any fraud as doing such things,security_fraud,0.6758021712303162,security_fraud,security_fraud,0.6758021712303162
+I can provide you with my Amazon account email id. Would that help? It's been a couple of days that I replied to 's email,security_fraud,0.6660009622573853,general_unclear,security_fraud,0.6660009622573853
+"Not yet, thought it was a no-reply email. Would do that",security_fraud,0.4539903104305267,general_unclear,security_fraud,0.45399031043052673
+"She's forwarded me the email, if I follow the order number link it seems to take me to the genuine to log in.",security_fraud,0.6041178107261658,security_fraud,security_fraud,0.6041178107261658
+existe algum e-mail onde eu consiga abrir um chamado?,security_fraud,0.2534700632095337,general_amazon_query,security_fraud,0.2534700632095337
+"And they call themselves to be the best customer oriented. All their cust service agents do, copy and paste the emails. Frustrated",security_fraud,0.4393289387226105,general_unclear,security_fraud,0.4393289387226105
+I m filling a fraudulent case agnst u all #Amazon fr cheating by sending me cofirmtn of my packg being delivrd wer as i havnt recevd it,security_fraud,0.6262534856796265,delivery_misdelivery,security_fraud,0.6262534856796265
+"I have already shared the email, what should I write in reply to this. The email said to call and on call i ask to mail.....",security_fraud,0.3790038824081421,general_unclear,security_fraud,0.3790038824081421
+"on arrival sms, delaying order by giving fake excuses, rude courier boys & this all is happening when order is from Amazon assured (2/3)",security_fraud,0.618625283241272,delivery_issue,security_fraud,0.618625283241272
+Payment has failed once & in the last two attempts has failed me. What can I do now?,payment_billing,0.8476173877716064,payment_billing,payment_billing,0.8476173877716064
+I have spent an hour on hold with amazon this morning just so someone can look at why I have been charged for something I shouldn't. Great 👍,payment_billing,0.7493642568588257,payment_billing,payment_billing,0.7493642568588257
+please explain why you charge for amazon prime yet don't follow through on your promises of speedy deliveries,payment_billing,0.7151489853858948,prime,payment_billing,0.7151489853858948
+"Unable to make any kind of purchase, constant failure while checking out, unable to complete the payment process, tried connecting via phone, email, chat but no response is there any way I can get some assistance? this is crying shame",payment_billing,0.7061339616775513,payment_billing,payment_billing,0.7061339616775513
+i think amazon have just took a random £1 off me? I have no idea why,payment_billing,0.7034532427787781,payment_billing,payment_billing,0.7034532427787781
+Yes the charge is on my bank account,payment_billing,0.6917666792869568,payment_billing,payment_billing,0.6917666792869568
+"Unable to make payment, as I get following error on every retry. Could you please check? Customer care folks are not able to understand. Order # 406-1363621-4941920",payment_billing,0.681644082069397,payment_billing,payment_billing,0.681644082069397
+it appears you’ve charged me twice for the same item. What do I do? (UK customer),payment_billing,0.6797924041748047,payment_billing,payment_billing,0.6797924041748047
+"un pacco mai consegnato: il corriere di prima dice di non avermi trovato e poi lascia la cartolina di avviso di giacenza, ma l'indirizzo è il mio ufficio e io sono qui! #Schrodinger",payment_billing,0.1252640783786773,delivery_issue,payment_billing,0.12526407837867737
+Erm I bought this item for £5.99... why am I only getting £1.67 back?!,payment_billing,0.4874807000160217,refund_issue,payment_billing,0.48748070001602173
+Hi my order no. #406-9598128-9365154. I have bouth this mobile with No cost emi.... Have you given confirmation to bank,payment_billing,0.6101809144020081,payment_billing,payment_billing,0.6101809144020081
+"J'ai retourner l'article pour réparation, mais j'aimerai le récupérer",payment_billing,0.156748428940773,return_issue,payment_billing,0.156748428940773
+"this is just ridiculous, new credit card details out in and your still saying unable to update charge payment!!! I have customers waiting and you’re blocking the account!!! #disgrace #joke",payment_billing,0.5903031826019287,payment_billing,payment_billing,0.5903031826019287
+Simplement que le livreur est passé à 14h et que j’y étais pas (alors qu’à cette heure ci j’étais devant ma boîte aux lettres justement). Livreur de chez TNT. Je n’ai eu aucun retour j’ai dû les appeler,payment_billing,0.1650449633598327,delivery_issue,payment_billing,0.16504496335983276
+Boycott Delivered my product somewhere without my consent. Amazon escalation team took no charge of it. Pathetic service,payment_billing,0.5682046413421631,delivery_misdelivery,payment_billing,0.5682046413421631
+Did not received my package .,delivery_misdelivery,0.8411228656768799,delivery_misdelivery,delivery_misdelivery,0.8411228656768799
+I didn't received my package but in app it showing package was delivered,delivery_misdelivery,0.7800750136375427,delivery_misdelivery,delivery_misdelivery,0.7800750136375427
+just delivered a package to our house and the address isn’t even close. Somebody is going to be upset because I’m not delivering it.,delivery_misdelivery,0.7512210011482239,delivery_misdelivery,delivery_misdelivery,0.7512210011482239
+Delivered today Your package was delivered.,delivery_misdelivery,0.740146279335022,general_unclear,delivery_misdelivery,0.740146279335022
+"order was despatched to wrong address where I no longer live, what can I do? I'm sure the adress was correct when I was ordering",delivery_misdelivery,0.7353662848472595,delivery_misdelivery,delivery_misdelivery,0.7353662848472595
+anything you can do about this horrible delivery person throwing my package at the door?,delivery_misdelivery,0.7093445062637329,delivery_misdelivery,delivery_misdelivery,0.7093445062637329
+a little help! My account says my package was delivered and left in my mailbox yesterday but it's nowhere to be found.,delivery_misdelivery,0.7092345952987671,delivery_misdelivery,delivery_misdelivery,0.7092345952987671
+So 2 of my packages got “delivered” & I only received 1. How do I go about this,delivery_misdelivery,0.7066285014152527,delivery_misdelivery,delivery_misdelivery,0.7066285014152527
+Ordered 2 relatively small pieces of trunking...this was the #ridiculously oversized #packaging it was delivered in today...completely unnecessary! #unimpressed,delivery_misdelivery,0.4637107253074646,general_amazon_query,delivery_misdelivery,0.4637107253074646
+You sent me an incomplete package,delivery_misdelivery,0.6160158514976501,delivery_issue,delivery_misdelivery,0.6160158514976501
+Purchased a product on your site and seller sent wrong one. He keeps asking for photograph but can't find where to attach.,delivery_misdelivery,0.4277906119823456,product_device_issue,delivery_misdelivery,0.4277906119823456
+Gotta love packaging. So green and not wasteful at all.,delivery_misdelivery,0.3814854621887207,general_amazon_query,delivery_misdelivery,0.3814854621887207
+What the hell is this Never received this and App shows this is delivered Wrost customer service,delivery_misdelivery,0.5943514704704285,delivery_misdelivery,delivery_misdelivery,0.5943514704704285
+"what is with all the packaging for a few small batteries? Come on Amazon, totally unnecessary",delivery_misdelivery,0.385205328464508,general_amazon_query,delivery_misdelivery,0.38520532846450806
+Received this super packaged product. Waiting for justification! Order: 404-0129973-6221120,delivery_misdelivery,0.6574977040290833,general_amazon_query,delivery_misdelivery,0.6574977040290833
+My package didn’t arrive,delivery_issue,0.8676348924636841,delivery_issue,delivery_issue,0.8676348924636841
+You really need to better communicate that packages are delayed. When I’m told Today by 9PM that’s when I expect it to arrive. There has been zero communication of a delay until I call to find out you can’t even find my package. Awful communication!,delivery_issue,0.8130477666854858,delivery_issue,delivery_issue,0.8130477666854858
+The order has not arrived...,delivery_issue,0.8064414262771606,delivery_issue,delivery_issue,0.8064414262771606
+Neither order has arrived,delivery_issue,0.799944281578064,delivery_issue,delivery_issue,0.799944281578064
+My order has two days and it's in the way when it will arrive ، my order number #LS113773911CN,delivery_issue,0.7940377593040466,delivery_issue,delivery_issue,0.7940377593040466
+I ordered something that was supposed to be delivered today but hasn't even shipped yet!,delivery_issue,0.7905910015106201,delivery_issue,delivery_issue,0.7905910015106201
+Hey my package that was guaranteed to arrive on Sunday has been delayed 3 times and now there is no eta on my delivery. What is going on?,delivery_issue,0.787384033203125,delivery_issue,delivery_issue,0.787384033203125
+The order status shows it has been delivered. But i haven't received any item. Order #404-2576865-9756357,delivery_issue,0.7639039754867554,delivery_misdelivery,delivery_issue,0.7639039754867554
+I’ll pop out and hope for an evening delivery 📦 😊,delivery_issue,0.4855656027793884,general_unclear,delivery_issue,0.4855656027793884
+"Pls refer Amazon.in order number: 408-8121690-7261949, delivery is delayed by 5 day and on. Still I am not getting clear status.",delivery_issue,0.6570197343826294,delivery_issue,delivery_issue,0.6570197343826294
+Yeah I had 2 items that should have been delivered today. But my USPS is crap and holds my packages too long before delivering. Everything Ive ordered from anywhere has taken longer than expected to be delivered to me.,delivery_issue,0.6583575010299683,delivery_issue,delivery_issue,0.6583575010299683
+hey I'm due a package tomorrow that I paid next day delivery for and my tracking status is still awaiting dispatch! Help?,delivery_issue,0.5895532369613647,order_tracking_status,delivery_issue,0.5895532369613647
+4-6pm delivery slot. Still waiting at 6.30pm.,delivery_issue,0.5542581081390381,delivery_issue,delivery_issue,0.5542581081390381
+Any reason why this is now being delivered Monday ? I ordered this edition to get it four days early!,delivery_issue,0.5506178140640259,delivery_issue,delivery_issue,0.5506178140640259
+What a solution to the problem. U need 3 more days to ship my package frm mumbai warehouse to thane. Even snails are faster than ur delivery,delivery_issue,0.578506350517273,delivery_issue,delivery_issue,0.578506350517273
+I participated in a promotion which should have given me a 10 dollar credit. Its not in my account. Help?,promotion_discount,0.7855892181396484,promotion_discount,promotion_discount,0.7855892181396484
+"Promotion cannot be applied to this purchase, but it matches all requirements hence why i called",promotion_discount,0.7742130756378174,promotion_discount,promotion_discount,0.7742130756378174
+I didn't receive my promised cashback. Neither am I able to contact customer care. There's a robot on the other side. :( Help ASAP,promotion_discount,0.6705962419509888,promotion_discount,promotion_discount,0.6705962419509888
+when i got my cashback. i ordered through by amazon pay balance.,promotion_discount,0.6645912528038025,promotion_discount,promotion_discount,0.6645912528038025
+Cashback against ORDER # 402-3909699-4838731 .,promotion_discount,0.654871940612793,promotion_discount,promotion_discount,0.654871940612793
+Please resolve I am waiting for 2500 cashback from last 8 days,promotion_discount,0.6542009115219116,promotion_discount,promotion_discount,0.6542009115219116
+"I received a $15 promotional credit for purchasing gift cards, but I cannot figure out how to apply it. I received an email confirming this, but when I click the link to learn more about it, I am directed to the below screen. Can I get some help with this?",promotion_discount,0.6527993679046631,promotion_discount,promotion_discount,0.6527993679046631
+just spent over 3 hours on chat and still didn't get the promotional credit that was suppose to be with purchase #beware #con,promotion_discount,0.6363650560379028,promotion_discount,promotion_discount,0.6363650560379028
+Ich hätte lieber noch ein paar mehr Dokus 😉,promotion_discount,0.1424804627895355,general_amazon_query,promotion_discount,0.14248046278953552
+"But the discount is very less, any seller sell in dozen only ?",promotion_discount,0.426659494638443,promotion_discount,promotion_discount,0.426659494638443
+Hi do you accept Bitcoin?,promotion_discount,0.3327083587646484,payment_billing,promotion_discount,0.33270835876464844
+If you bought something on Amazon and the price goes down within 30 days you can email them and they will send you the difference!,promotion_discount,0.3839813768863678,general_amazon_query,promotion_discount,0.3839813768863678
+"I’ve asked, no manager available.",promotion_discount,0.2990711629390716,general_unclear,promotion_discount,0.29907116293907166
+El último aparece como entregado y no es verdad. Hace un rato ponía que habían intentado entregarlo y no habían podido. Ahora sale entregado,promotion_discount,0.2251674234867096,delivery_misdelivery,promotion_discount,0.2251674234867096
+"Hey ,if i load balance to my Amazon pay wallet for the first time,will I get 20% cashback as Amazon pay balance?",promotion_discount,0.4290639758110046,promotion_discount,promotion_discount,0.42906397581100464
+does amazon offer Amazon Household like in the US?,general_amazon_query,0.7400691509246826,general_amazon_query,general_amazon_query,0.7400691509246826
+Whats the benefit.. F***g amazon never cares.. Customers always taken for granted..,general_amazon_query,0.7205852270126343,general_unclear,general_amazon_query,0.7205852270126343
+That's why I am saying I have worst experience with #amazon,general_amazon_query,0.696854293346405,general_unclear,general_amazon_query,0.696854293346405
+Amazon via Warehouse Deals.,general_amazon_query,0.6893091797828674,general_amazon_query,general_amazon_query,0.6893091797828674
+How Amazon India is cheating to customers?,general_amazon_query,0.6705241203308105,general_unclear,general_amazon_query,0.6705241203308105
+", Also I would like to add they're giving money back into amazon pay.why amazon is forcing people to buy only from amazon?",general_amazon_query,0.6647907495498657,payment_billing,general_amazon_query,0.6647907495498657
+I haven't been able to go on your website for the past 48 hours. Amazon is the only site that I can't access. What's going on?,general_amazon_query,0.6634681224822998,general_amazon_query,general_amazon_query,0.6634681224822998
+Not good company Amazon,general_amazon_query,0.654295027256012,general_unclear,general_amazon_query,0.654295027256012
+"Muss mein Mann machen, der hat bestellt.",general_amazon_query,0.2166006863117218,general_unclear,general_amazon_query,0.2166006863117218
+Zustellung um 21:40 Uhr!!! 😲😲😲 Sagt mal und habt ihr eigentlich den Schlag noch gehört? 😠😠😠,general_amazon_query,0.1730769574642181,delivery_issue,general_amazon_query,0.17307695746421814
+My sister does but we have checked and there's no subscription on hers for Kindle using my card ?,general_amazon_query,0.369725227355957,payment_billing,general_amazon_query,0.36972522735595703
+"Oui, mais à lundi. Pour un article que j'ai précommandé un mois avant sa sortie...",general_amazon_query,0.1262614727020263,delivery_issue,general_amazon_query,0.12626147270202637
+#amazonIN Please make Cash on delivery for the pincode 625518. Due to inconvenience of COD people choosing other online store.,general_amazon_query,0.4288303256034851,general_amazon_query,general_amazon_query,0.4288303256034851
+"Bekomme morgen das erste Mal eine Lieferung mit Amazon Logistics. Gibt es irgendwie eine ungefähre Uhrzeit, wann die zustellen?",general_amazon_query,0.5173581838607788,order_tracking_status,general_amazon_query,0.5173581838607788
+As a trial I had Glasgow WORKING - but Brighton is a non-starter as others have reported - and indeed yourself. #terribleservice,general_amazon_query,0.2912080883979797,general_amazon_query,general_amazon_query,0.29120808839797974
+where is my order? It says it was delivered but doesn’t say where 😭😭😭😭😭,order_tracking_status,0.779542088508606,delivery_misdelivery,order_tracking_status,0.779542088508606
+I need to track an order but not been able to contact your customer service :(,order_tracking_status,0.7755794525146484,order_tracking_status,order_tracking_status,0.7755794525146484
+I feel I have been lied to. I was told my package was delivered this morning but it is no where to be seen. I'd like to know where my package is please and thank u,order_tracking_status,0.7662813663482666,delivery_misdelivery,order_tracking_status,0.7662813663482666
+Where is my order please? Bought it with Prime delivery 3 days ago. Due 2 days ago. Still isn’t here. Item was needed yesterday.,order_tracking_status,0.7446175813674927,delivery_issue,order_tracking_status,0.7446175813674927
+Where is my Amazon order? This is stressful.,order_tracking_status,0.736379086971283,order_tracking_status,order_tracking_status,0.736379086971283
+My order this hasn’t got here,order_tracking_status,0.7168643474578857,delivery_issue,order_tracking_status,0.7168643474578857
+I still not received my order and on your website it showing delivered on 14nov17. Where is my order?,order_tracking_status,0.7143635749816895,delivery_misdelivery,order_tracking_status,0.7143635749816895
+"Although I've already share my order no, yet you are not able to track. Please initiate my refund",order_tracking_status,0.7100114226341248,refund_issue,order_tracking_status,0.7100114226341248
+"ya me podíais dar vales descuento, con todo lo que os compro jajajajajja",order_tracking_status,0.1667508482933044,promotion_discount,order_tracking_status,0.16675084829330444
+"Oops sry , I won't share the order details public. , but if anything you guys can do. I will be very much happier.",order_tracking_status,0.612741231918335,general_unclear,order_tracking_status,0.612741231918335
+"Hello, I’ve got an order out which says it’s expected on 23rd, still not received or had an update on delivery?",order_tracking_status,0.6551049947738647,delivery_issue,order_tracking_status,0.6551049947738647
+"Solucionado, después de 2 días de retraso el envío 24h llegó a su destino. Gracias.",order_tracking_status,0.1882620751857757,delivery_issue,order_tracking_status,0.18826207518577576
+Thanks it’s a uk order via Amazon shipping,order_tracking_status,0.5652318000793457,general_unclear,order_tracking_status,0.5652318000793457
+"Yup, this got resolved. Thanks!",order_tracking_status,0.3151434361934662,general_unclear,order_tracking_status,0.3151434361934662
+still trying ti track a non delivery 205-5349810-6471507 please send replacements,order_tracking_status,0.5389816164970398,delivery_issue,order_tracking_status,0.5389816164970398
+I received a damaged product today from amazon. order number 406-3167131-0133142 . amazon india,product_device_issue,0.7800332307815552,product_device_issue,product_device_issue,0.7800332307815552
+Delivered Broken Product ! never had issue ! Quality is Deteriorated by Amazon,product_device_issue,0.6790814399719238,product_device_issue,product_device_issue,0.6790814399719238
+It has been damaged in transit and won't be delivered. Does this mean i will be refunded for the item?,product_device_issue,0.6616405248641968,product_device_issue,product_device_issue,0.6616405248641968
+There is no follow-up support from your team for the request for damaged product received. Please help,product_device_issue,0.6557213664054871,product_device_issue,product_device_issue,0.6557213664054871
+..Order No..404-6800877-5877920 Item recieved broken. Please get it picked up from shipped address. No option on ur site.,product_device_issue,0.6372858285903931,product_device_issue,product_device_issue,0.6372858285903931
+Hello Friend of mine got her order in damaged condition. Can you please check,product_device_issue,0.6104555726051331,product_device_issue,product_device_issue,0.6104555726051331
+when u going to fix Amazon Music App for Android? App shuts off and some music loading time is just pending ...Fix it!!!,product_device_issue,0.6089935302734375,product_device_issue,product_device_issue,0.6089935302734375
+"my device has frozen for days, I have tried restart, recharge, let battery die, but its only new, bought in August, help pls",product_device_issue,0.6023584008216858,product_device_issue,product_device_issue,0.6023584008216858
+just received a damaged and heavily taped parcel. Not the prettiest of things for an Xmas present. How has this happened?,product_device_issue,0.5678783059120178,product_device_issue,product_device_issue,0.5678783059120178
+Provided the details on the link,product_device_issue,0.3327267169952392,general_unclear,product_device_issue,0.33272671699523926
+Ohk but plz check my product where is my product I am not able to see from website,product_device_issue,0.5375263690948486,general_amazon_query,product_device_issue,0.5375263690948486
+"I've been through my recent orders and there's nothing, my son downloads things to tablet but only things that are free to download",product_device_issue,0.3624540865421295,general_amazon_query,product_device_issue,0.3624540865421295
+"Purchased a Vaseline With ₹38 With A Mrp of ₹35 , These are Unethical Practices.",product_device_issue,0.3145020604133606,payment_billing,product_device_issue,0.3145020604133606
+"we just set our TV up from our wedding registry, but it's broken & it won't let us return it for a replacement. Help pls!",product_device_issue,0.4136386513710022,product_device_issue,product_device_issue,0.4136386513710022
+tired amazon pantry and this is how my items ended up. They were spilled everywhere too.,product_device_issue,0.3591218590736389,product_device_issue,product_device_issue,0.3591218590736389
+Helping me and said it's amazon's problem,general_unclear,0.9159322381019592,general_unclear,general_unclear,0.9159322381019592
+can you help me please?,general_unclear,0.9129924774169922,general_unclear,general_unclear,0.9129924774169922
+Unfortunate I'm struggling with Amazon. Have been an avid shopper and never faced any problem.,general_unclear,0.8340266942977905,general_unclear,general_unclear,0.8340266942977905
+Care to help amazon? Bit of a crisis I'm afraid,general_unclear,0.8105648159980774,general_unclear,general_unclear,0.8105648159980774
+can i get some help with my amazon account please,general_unclear,0.8077864050865173,account_login,general_unclear,0.8077864050865173
+can you help me with something?,general_unclear,0.7839257717132568,general_unclear,general_unclear,0.7839257717132568
+WHY DOES AMAZON ALWAYS CAUSE PROBLEMS FOR ME LIKE THIS IS THE 4th EFFING TIME THEY CHARGED ME FOR SUBSCRIPTIONS THAT I DIDNT SIGN UP FOR 😤😤,general_unclear,0.7653920650482178,payment_billing,general_unclear,0.7653920650482178
+"It is set to amazon, still not working :(",general_unclear,0.7205142974853516,general_unclear,general_unclear,0.7205142974853516
+"You will notice I have historically praised Amazon for their support, but today the support has been appauling. I spoke to a supervisor who told me I must not have raised my order in the right period.",general_unclear,0.6702960729598999,general_unclear,general_unclear,0.6702960729598999
+Spent 20 minutes on live chat. ZERO resolution to my situation.,general_unclear,0.2200627923011779,general_unclear,general_unclear,0.22006279230117798
+"Yes! Mostly with USPS, has only happened once with your own Amazon carriers. I’m a big fan of them.",general_unclear,0.4142893552780151,delivery_issue,general_unclear,0.41428935527801514
+"blatantly not resolved, hence tweet. i give up!",general_unclear,0.2955796122550964,general_unclear,general_unclear,0.29557961225509644
+Two futile complaints in FOUR days with call-center about this invisible #AmazonPrime delivery-failure.,general_unclear,0.5481547713279724,delivery_issue,general_unclear,0.5481547713279724
+"Hey, , would you please consider adding “Janet” as an Echo Dot wake word? #TheGoodPlace",general_unclear,0.1285099983215332,general_amazon_query,general_unclear,0.1285099983215332
+"onde peço ajuda pro app Kindle? a nova versão aparece atualizada no meu celular, mas ainda está com o ícone e layout antigos...",general_unclear,0.1724149882793426,product_device_issue,general_unclear,0.17241498827934265
+Why my order (ORDER # 404-7131892-3959558) got cancelled. please let me know.,cancellation,0.8932716846466064,cancellation,cancellation,0.8932716846466064
+Need help with an order I cancelled please,cancellation,0.8386476039886475,cancellation,cancellation,0.8386476039886475
+unable to cancel this order. Plz help me 403-6971836-0369117,cancellation,0.8282941579818726,cancellation,cancellation,0.8282941579818726
+I want to cancel this item as it's arriving too late! I cant't cancel because it was 'part of a multi order',cancellation,0.8134132623672485,cancellation,cancellation,0.8134132623672485
+how do I cancel dispatched order?,cancellation,0.7984133958816528,cancellation,cancellation,0.7984133958816528
+how i cancel my order and amazon still snatch the money out my acc 😐,cancellation,0.7899226546287537,cancellation,cancellation,0.7899226546287537
+Hey why have you cancelled my order? 😡 Order number: 404-6296425-8499511,cancellation,0.7752985954284668,cancellation,cancellation,0.7752985954284668
+Three of my recent orders from have been cancelled one item cancelled twice the second time without explanation... SOUND!,cancellation,0.7690631151199341,cancellation,cancellation,0.7690631151199341
+Seem to be one of the few companies in the world that can't cancel a delivery from their own Carrier.,cancellation,0.5617250204086304,cancellation,cancellation,0.5617250204086304
+e hoje um pedido meu na foi cancelado pqp,cancellation,0.2725279629230499,cancellation,cancellation,0.2725279629230499
+What do u do.... they did the same thing again with My another order.,cancellation,0.6437830924987793,general_unclear,cancellation,0.6437830924987793
+Used to think highly of your company before you mixed up my order,cancellation,0.4267541170120239,general_unclear,cancellation,0.4267541170120239
+"Can I reverse my business prime? I’ve lost my 1 click ordering, how do I reverse it? I’ve tried activating it again but no luck!",cancellation,0.4831715822219848,prime,cancellation,0.48317158222198486
+Is there a way to cancel the order of The Pope and Mussolini? I'll just buy it at my local Barnes & Noble and have it read before Monday.,cancellation,0.5074039697647095,cancellation,cancellation,0.5074039697647095
+"so sure, i was interested in them a couple of days ago, but since i just bought them, why would i still be wanting to buy? so weird.",cancellation,0.3485390841960907,general_unclear,cancellation,0.3485390841960907
+hey where is my refund??,refund_issue,0.9211121201515198,refund_issue,refund_issue,0.9211121201515198
+Still awaiting my refund,refund_issue,0.8774466514587402,refund_issue,refund_issue,0.8774466514587402
+"but i'm worried, refund not received",refund_issue,0.8036729097366333,refund_issue,refund_issue,0.8036729097366333
+i want my refund back against order number #408-0910267-8989113,refund_issue,0.7845917344093323,refund_issue,refund_issue,0.7845917344093323
+Why refund so late this order? #407-6568100-3189931,refund_issue,0.7837308049201965,refund_issue,refund_issue,0.7837308049201965
+Not received refund even after 10 days of regular calls and emails 2 the customer care for ID171-7843961-0017163,refund_issue,0.7765973806381226,refund_issue,refund_issue,0.7765973806381226
+i returned the order ORDER # 405-7027922-1427525 which i received from you. a refund has not been initiated on my order,refund_issue,0.7756922245025635,refund_issue,refund_issue,0.7756922245025635
+it says refund issued on 14th Oct but I haven't received it yet,refund_issue,0.7704482078552246,refund_issue,refund_issue,0.7704482078552246
+Ur calc shows 57rs twice credited.. My AP stat. shows 57rs once..y can't we reply to the same thread?,refund_issue,0.2909611761569977,payment_billing,refund_issue,0.2909611761569977
+Non merci c bon j ai appeler et j ai ete remboursere,refund_issue,0.1103557273745536,general_unclear,refund_issue,0.11035572737455368
+Oh order new cell got defacto product not ready to do compansation and refund 5 order 4 got defect no customercentic,refund_issue,0.478589653968811,refund_issue,refund_issue,0.47858965396881104
+I did not receive that or a copy of my chat transcript,refund_issue,0.3834584355354309,general_unclear,refund_issue,0.3834584355354309
+"Hi Team,did not receive complete refund. Is this how you cheat a customer. Pls call back.",refund_issue,0.7102558612823486,refund_issue,refund_issue,0.7102558612823486
+there is no useful information in that email I just want replacement product not refund.,refund_issue,0.545181155204773,product_device_issue,refund_issue,0.545181155204773
+Is ₹2500 a easy money for you? It's been 2 days and no resolution has been taken yet. I would never recommend to any of my friends and relatives anymore.Just take this used product back and send me a replacement and I would never ever come back to Amazon.,refund_issue,0.3701522052288055,product_device_issue,refund_issue,0.37015220522880554
+Dear I'm unable to log-in to my amazon account. Kindly help me regarding that.,account_login,0.8957473039627075,account_login,account_login,0.8957473039627075
+Why am I unable to login ? Why no response from Amazon after filing complaint ?,account_login,0.8045294284820557,account_login,account_login,0.8045294284820557
+My account has been locked,account_login,0.7468851208686829,account_login,account_login,0.7468851208686829
+"Got email from Amazon Specialist stating I need to reset my password to gain access again, however once reset, account reads wrong password",account_login,0.7253729701042175,account_login,account_login,0.7253729701042175
+"Hi! I am having trouble signing into my account. I tried changing the password after I repeatedly got a message that it was incorrect, but even after the change the same thing happened. Can you please help?",account_login,0.7242292165756226,account_login,account_login,0.7242292165756226
+"How can someone hack into amazon.in account.Change email id, ph no.on top of it my order gets cancelled,paybalance account blocked",account_login,0.7010526657104492,security_fraud,account_login,0.7010526657104492
+"My Amazon account has been hacked. Wanted to speak to a customer service executive for help, but 1800 3000 9009 does not give that option. Kindly help.",account_login,0.700734555721283,security_fraud,account_login,0.700734555721283
+"help. i cant login into my account. It asks for code, but it never arrives. To log a ticket, i have to sign in! frustrating",account_login,0.6799339652061462,account_login,account_login,0.6799339652061462
+unable to delete card via Manage Payment Methods page. Is the issue brought to notice already? #CardManagement #Amazon,account_login,0.4333146214485168,payment_billing,account_login,0.43331462144851685
+How do I find that out?,account_login,0.2979735732078552,general_unclear,account_login,0.2979735732078552
+"need to register a Amazon Javline drop box to my account but can’t, how do I? Thanks",account_login,0.5258163809776306,general_amazon_query,account_login,0.5258163809776306
+have a ghost account with my mobile number without an email and i have suffered by calling customer service multiple times HELP!,account_login,0.4873560667037964,security_fraud,account_login,0.4873560667037964
+"Have already shared my registered mobile no. 9673101122, but I m currently contactable on 9818601122",account_login,0.3503728210926056,general_unclear,account_login,0.3503728210926056
+Je pense qu' n'a pas livré le bon,account_login,0.1165945157408714,delivery_issue,account_login,0.11659451574087143
+do you actually read emails correctly...no you don’t. Trying to change dads email address for nearly two weeks he has no access,account_login,0.3866779208183288,account_login,account_login,0.38667792081832886
+My Prime trial is expiring. Where can I find out when? Got tired of searching and clicking.,prime,0.8268463611602783,prime,prime,0.8268463611602783
+"I've been trying for the past few days to reinstate my prime membership, but it's still telling me there's an error. Help?",prime,0.8261760473251343,prime,prime,0.8261760473251343
+"dude.. the Prime Video thing.. its not working.. few videos are being played. And few are not. ""Unable to play video right now""",prime,0.806770920753479,prime,prime,0.806770920753479
+my prime membership is renewed every year automatically so why is my account saying I’m not a prime member?,prime,0.7853834629058838,prime,prime,0.7853834629058838
+ANOTHER DELAY. Everything I am ordering is getting delayed and estimated delivery dates are pushed out!!! Why do I even pay for Prime?!,prime,0.7841784358024597,prime,prime,0.7841784358024597
+"don""t see my Prime delivery supposed to come yesterday. Any way to contact you? Can""t find it....thank you",prime,0.7808454632759094,delivery_issue,prime,0.7808454632759094
+"for some reason, there is no option in the prime membership tab to cancel my prime membership, what do I do?",prime,0.7806560397148132,prime,prime,0.7806560397148132
+Couldn't find on Prime Video,prime,0.7683089375495911,prime,prime,0.7683089375495911
+"Venduto si, spedito penso di sì ma non sono sicuro",prime,0.1205701306462287,general_unclear,prime,0.12057013064622879
+Every 2 Orders There Is a delivery problem. Whats the use of getting prime then?,prime,0.6486456394195557,prime,prime,0.6486456394195557
+Very displeased with ’s customer service. they will disconnect without giving a resonable solution. Will def. be cancelling Prime.,prime,0.5699955224990845,prime,prime,0.5699955224990845
+its about 6pm..till 8pm it is to be delivered.else prime membership is a waste. already being a day late,prime,0.697493314743042,prime,prime,0.697493314743042
+"Pues... Yo sigo esperando desde el viernes para sonreír, pero no, como vamos igual llega mi pedido la próxima semana. Si tienen demasiados pedidos, quiten la opción de promesa de entrega. Ya ni la...",prime,0.2155122011899948,delivery_issue,prime,0.2155122011899948
+Having shocking CS on the live chat and if anything it's made me cancel my prime subscription,prime,0.452384889125824,prime,prime,0.452384889125824
+why was I charged $15 for a one month trial of prime?,prime,0.5866587162017822,prime,prime,0.5866587162017822

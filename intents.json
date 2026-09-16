@@ -1,0 +1,194 @@
+{
+  "delivery_issue": {
+    "description": "A package is late, delayed, missing, or has not arrived within the expected delivery time.",
+    "examples": [
+      "My package has not arrived yet",
+      "My delivery is several days late",
+      "My package was supposed to arrive today but it hasn't",
+      "My order has not been delivered",
+      "The delivery is taking too long",
+      "Why is my package delayed?",
+      "It has been days and my order still hasn't arrived",
+      "My order is late"
+    ]
+  },
+
+  "order_tracking_status": {
+    "description": "The customer wants information about the current location, tracking, or shipment status of an order.",
+    "examples": [
+      "Where is my order?",
+      "Can you tell me the status of my shipment?",
+      "I want to track my order",
+      "What is the current status of my package?",
+      "Can you give me an update on my order?",
+      "Where is my package right now?",
+      "The tracking information has not updated",
+      "Can you check the shipment status?"
+    ]
+  },
+
+  "return_issue": {
+    "description": "Problems or questions about returning a product, arranging a return, or scheduling a return pickup.",
+    "examples": [
+      "I want to return this product",
+      "How can I return my order?",
+      "How can I arrange a return pickup?",
+      "My return pickup has not happened",
+      "I started a return but there is a problem",
+      "I need to send this item back",
+      "The courier has not collected my return",
+      "There is a problem with my return"
+    ]
+  },
+
+  "refund_issue": {
+    "description": "Problems involving a missing, delayed, pending, incorrect, or incomplete refund.",
+    "examples": [
+      "I have not received my refund",
+      "My refund is still pending",
+      "Why is my refund delayed?",
+      "I cancelled my order but did not get my refund",
+      "Where is my refund?",
+      "The refund amount is incorrect",
+      "I was promised a refund but haven't received it",
+      "My money has not been refunded"
+    ]
+  },
+
+  "cancellation": {
+    "description": "Requests or problems related to cancelling an order or an order being cancelled.",
+    "examples": [
+      "I want to cancel my order",
+      "Can I cancel this order?",
+      "Please cancel my order",
+      "Amazon cancelled my order",
+      "My order was cancelled",
+      "Why was my order cancelled?",
+      "I need to cancel this shipment",
+      "Can I cancel the order before it is delivered?"
+    ]
+  },
+
+  "payment_billing": {
+    "description": "Payment failures, duplicate charges, billing problems, payment methods, or payment options.",
+    "examples": [
+      "My payment failed",
+      "I was charged twice",
+      "Why was my card declined?",
+      "My payment was rejected",
+      "There is an extra charge on my account",
+      "Can I pay using EMI?",
+      "I cannot update my payment method",
+      "Why did Amazon charge me?"
+    ]
+  },
+
+  "account_login": {
+    "description": "Problems with account access, login, account security, or account-related access issues.",
+    "examples": [
+      "I cannot log into my Amazon account",
+      "I cannot access my account",
+      "I forgot my account login",
+      "I am unable to sign in",
+      "There is an unknown device on my account",
+      "I think someone accessed my account",
+      "I cannot access my Amazon account anymore",
+      "I am having trouble logging into Amazon"
+    ]
+  },
+
+  "prime": {
+    "description": "Questions or problems specifically related to Amazon Prime membership, Prime benefits, Prime Video, or Prime services.",
+    "examples": [
+      "My Prime delivery is late",
+      "Why is my Prime order not arriving?",
+      "I cannot watch Prime Video",
+      "My Prime trial is expiring",
+      "How does Amazon Prime work?",
+      "Can I use Prime Video in another country?",
+      "I have a problem with my Prime membership",
+      "What are the benefits of Prime?"
+    ]
+  },
+
+  "promotion_discount": {
+    "description": "Problems with promotional credits, coupons, discounts, cashback, offers, or promotional benefits.",
+    "examples": [
+      "I did not receive my promotional credit",
+      "My coupon is not working",
+      "Where is my cashback?",
+      "Why can't I apply this promotion?",
+      "I did not receive my promotional offer",
+      "My discount was not applied",
+      "Where is my promotional credit?",
+      "The offer is not working"
+    ]
+  },
+
+  "product_device_issue": {
+    "description": "Problems with a physical product or device, including damaged, defective, or malfunctioning products.",
+    "examples": [
+      "The product I received is damaged",
+      "My replacement arrived damaged",
+      "The device is not working",
+      "I received a defective product",
+      "The item arrived broken",
+      "My Amazon device is not working",
+      "The product stopped working",
+      "I received a damaged item"
+    ]
+  },
+
+  "delivery_misdelivery": {
+    "description": "A package was delivered to the wrong person, wrong location, unsafe location, or marked as delivered when the customer did not receive it.",
+    "examples": [
+      "My package was delivered to the wrong address",
+      "The package was delivered to someone else",
+      "My order was delivered to the wrong location",
+      "The courier left my package somewhere unsafe",
+      "My package says delivered but I did not receive it",
+      "The delivery person left my package outside",
+      "My package was delivered to the wrong person",
+      "It says delivered but my package is missing"
+    ]
+  },
+
+
+
+  "security_fraud": { 
+    "description": "Suspicious, fraudulent, phishing, impersonation, or unauthorized Amazon-related messages and account security concerns.", 
+    "examples": [ 
+        "I received a fraudulent Amazon confirmation email",
+        "Someone is pretending to be Amazon", 
+        "I received a suspicious email from someone claiming to be Amazon", 
+        "I think this Amazon email is a scam", "I received a fake order confirmation", 
+        "Someone is trying to impersonate Amazon", "I received a suspicious message about my Amazon order", 
+        "How do I report a fraudulent Amazon email?" 
+        ] 
+        },
+"general_amazon_query": { 
+    "description": "General questions about Amazon products, services, availability, regions, website functionality, or policies that do not fit another specific support intent.",
+     "examples": [ "Can I use Cash on Delivery in my area?", "Will this product be available on Amazon Germany?", 
+     "Can I buy this product from Amazon?", "Is this service available in my country?", 
+     "Why can't I view products on the Amazon website?", 
+     "Can I use Amazon services in another country?", 
+     "Is this product available on Amazon?", 
+     "I have a general question about Amazon" 
+     ] 
+    },
+
+  "general_unclear": {
+    "description": "The customer message does not contain enough information to reliably determine the issue.",
+    "examples": [
+      "I need help",
+      "Can someone help me?",
+      "I have a problem with Amazon",
+      "What is going on?",
+      "Please help me",
+      "I need assistance",
+      "Can you help?",
+      "I have an issue"
+    ]
+  }
+}
+
