@@ -45,7 +45,7 @@ The original full dataset was not included in the repository because the assignm
 
 ## 3. System Architecture
 
-
+```text
                     Customer Query
                           |
                           v
@@ -77,7 +77,7 @@ The original full dataset was not included in the repository because the assignm
                     /          \
                    /            \
            AUTO_HANDLE        ESCALATE
-
+```
 
 ---
 
@@ -176,19 +176,19 @@ Cases may be escalated when:
 
 ### Input
 
-
+```text
 My package has not arrived yet
-
+```
 
 ### Intent
 
-
+```text
 delivery_issue
-
+```
 
 ### Historical Evidence
 
-
+```text
 Similarity: 0.8676
 Customer: My package didn’t arrive
 
@@ -197,32 +197,33 @@ Customer: Did not received my package .
 
 Similarity: 0.7473
 Customer: Hey so my package has not arrived yet.
-
+```
 
 ### Example Generated Response
 
+```text
 I'm sorry to hear your package hasn't arrived yet. To help investigate this,
 could you please provide your order number? Alternatively, you can reach our
 support team directly via phone or chat for a more detailed investigation.
-
+```
 
 ### Grounding
 
-
+```text
 SUPPORTED
-
+```
 
 ### Handling Decision
 
-
+```text
 ESCALATE
-
+```
 
 ### Reason
 
-
+```text
 Response requires customer-specific information or further investigation.
-
+```
 
 ---
 
@@ -250,9 +251,9 @@ The keyword baseline has higher Macro Precision, showing that accuracy alone doe
 
 The project uses:
 
-
+```text
 golden_candidates.csv
-
+```
 
 with 210 manually labelled examples.
 
@@ -311,9 +312,9 @@ Always predicts the most frequent intent in the golden evaluation set.
 
 Result:
 
-
+```text
 Accuracy: 18.10%
-
+```
 
 ### Baseline 2 — Keyword Classifier
 
@@ -321,10 +322,10 @@ Uses simple keyword/rule matching to assign intents.
 
 Result:
 
-
+```text
 Accuracy: 49.05%
 Macro F1: 52.08%
-
+```
 
 ### Our Embedding Classifier
 
@@ -332,10 +333,10 @@ Uses semantic sentence embeddings rather than exact keyword matching.
 
 Result:
 
-
+```text
 Accuracy: 57.62%
 Macro F1: 58.85%
-
+```
 
 ---
 
@@ -345,21 +346,21 @@ Macro F1: 58.85%
 
 Example:
 
-
+```text
 I have still not received my courier!
-
+```
 
 True intent:
 
-
+```text
 delivery_issue
-
+```
 
 Predicted:
 
-
+```text
 return_issue
-
+```
 
 Hypothesis:
 
@@ -371,14 +372,15 @@ Delivery delays and returns share vocabulary around orders and couriers. More co
 
 Examples such as:
 
-
+```text
 I am receiving the same mails...
-
+```
 
 and
 
-
+```text
 here attaching the inbox page...
+```
 
 were sometimes classified as `security_fraud`.
 
@@ -394,15 +396,15 @@ Messages containing tracking information can also describe a delivery problem.
 
 The current classifier has difficulty separating:
 
-
+```text
 Where is my package?
-
+```
 
 from:
 
-
+```text
 My package is late.
-
+```
 
 Hypothesis:
 
@@ -434,9 +436,9 @@ Generation should be more strictly constrained by retrieved evidence, and unsupp
 
 The headline result is:
 
-
+```text
 57.62% intent classification accuracy
-
+```
 
 This number should **not** be interpreted as expected accuracy on all AmazonHelp customer traffic.
 
@@ -460,7 +462,7 @@ We intentionally did not build a fully autonomous customer-service agent with ac
 
 The system is designed as a support copilot:
 
-
+```text
 Classify
    ↓
 Retrieve historical evidence
@@ -470,6 +472,7 @@ Draft response
 Check evidence consistency
    ↓
 Recommend auto-handle or escalation
+```
 
 This keeps the project focused on capabilities that can be evaluated using the historical dataset without pretending that historical Twitter conversations provide live customer or account access.
 
@@ -554,7 +557,7 @@ Evaluation limitations, API quota limitations, and dataset sampling limitations 
 
 # 15. Project Structure
 
-
+```text
 AI Customer Support/
 │
 ├── README.md
@@ -584,7 +587,7 @@ AI Customer Support/
 ├── intent_evaluation_results.csv
 ├── intent_confusion_matrix.csv
 └── reply_evaluation.csv
-
+```
 
 ---
 
@@ -592,28 +595,29 @@ AI Customer Support/
 
 Create and activate a virtual environment:
 
+```bash
 python -m venv venv
-
+```
 
 Windows:
 
-
+```bash
 venv\Scripts\activate
-
+```
 
 Install dependencies:
 
-
+```bash
 pip install -r requirements.txt
-
+```
 
 Create a `.env` file:
 
-
+```text
 LLM_API_KEY=your_openrouter_api_key
 LLM_BASE_URL=https://openrouter.ai/api/v1
 LLM_MODEL=inclusionai/ling-3.0-flash-sante:free
-
+```
 
 Never commit `.env` or the API key to GitHub.
 
@@ -623,15 +627,15 @@ Never commit `.env` or the API key to GitHub.
 
 Run:
 
-
+```bash
 python main.py
-
+```
 
 Then enter a customer message, for example:
 
-
+```text
 My package has not arrived yet
-
+```
 
 The system displays:
 
@@ -649,20 +653,21 @@ The system displays:
 
 Intent evaluation:
 
-
+```bash
 python evaluate_intent.py
-
+```
 
 Majority baseline:
 
-
+```bash
 python baseline_majority.py
-
+```
 
 Keyword baseline:
 
-
+```bash
 python baseline_keyword.py
+```
 
 The reply evaluation scripts are included in the repository along with the available evaluation results.
 
@@ -705,6 +710,7 @@ The final system architecture, intent definitions, evaluation methodology, failu
 
 The resulting system demonstrates an end-to-end AI customer-support copilot:
 
+```text
 Customer Message
        ↓
 Intent Classification
@@ -716,6 +722,6 @@ Evidence-Grounded Generation
 Grounding Check
        ↓
 Auto-handle / Human Escalation
-
+```
 
 The evaluation focuses on demonstrating measurable behaviour against simple baselines while explicitly documenting failure cases and limitations.
